@@ -1,0 +1,21 @@
+[debug] [2025-05-26T04:00:07.860Z] ----------------------------------------------------------------------
+[debug] [2025-05-26T04:00:07.863Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\braya\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-05-26T04:00:07.863Z] CLI Version:   14.4.0
+[debug] [2025-05-26T04:00:07.863Z] Platform:      win32
+[debug] [2025-05-26T04:00:07.863Z] Node Version:  v22.16.0
+[debug] [2025-05-26T04:00:07.863Z] Time:          Sun May 25 2025 23:00:07 GMT-0500 (hora estándar de Colombia)
+[debug] [2025-05-26T04:00:07.864Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-26T04:00:07.869Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-05-26T04:00:07.870Z] > authorizing via signed-in user (brayanszm2810@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\braya\Downloads\cajeros-monitor1
+
